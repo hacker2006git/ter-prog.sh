@@ -1,0 +1,2 @@
+# ter-prog.sh
+Termux
